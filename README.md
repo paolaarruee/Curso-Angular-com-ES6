@@ -1,1 +1,1 @@
-# Curso-de-Desenvolvimento-WEB-com-ES6-TypeScript-e-Angular
+Curso-Angular-com-ES6
